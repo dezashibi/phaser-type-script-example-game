@@ -1,4 +1,8 @@
-# Phaser Webpack TypeScript Template
+# Phaser TypeScript Example Game
+
+This is a small part of my journey to learn Phaser, the game is based on [https://shakuro.com/blog/phaser-js-a-step-by-step-tutorial-on-making-a-phaser-3-game]
+
+## Phaser Webpack TypeScript Template
 
 This is a Phaser 3 project template that uses webpack for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds.
 
@@ -95,7 +99,7 @@ You can write modern ES6+ JavaScript and Babel will transpile it to a version of
 
 If you want to customize your build, such as adding a new webpack loader or plugin (i.e. for loading CSS or fonts), you can modify the `webpack/config.*.js` file for cross-project changes, or you can modify and/or create new configuration files and target them in specific npm tasks inside of `package.json`. Please see the [Webpack documentation](https://webpack.js.org/) for more information.
 
-## Join the Phaser Community!
+## Join the Phaser Community
 
 We love to see what developers like you create with Phaser! It really motivates us to keep improving. So please join our community and show-off your work 😄
 
